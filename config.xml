@@ -26,12 +26,12 @@
         xmlns:rim="http://www.blackberry.com/ns/widgets"
 	version="1.0.0.0" id="org.apache.cordova.example">
 
-  <name>cordovaExample</name>
+  <name>Aplikasi Surat Kabar Online</name>
 
-  <author>Your Name Here</author>
+  <author>Indra Lesmana</author>
 
   <description>
-       A sample Apache Cordova application that responds to the deviceready event.
+       Contoh saja.
   </description>
     
   <license href="http://opensource.org/licenses/alphabetical">
